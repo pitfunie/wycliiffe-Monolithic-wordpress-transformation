@@ -1,4 +1,4 @@
-# Web App - Single Server to Elastic Evolution
+# Web App - Monolithic WebServer to Elastic Modernization Infrastructure Evolution
 
 Evolve a Monolithic Webserver to an architecture of a popular web application WordPress
 The architecture will start with a manually built single instance, running the application and database
