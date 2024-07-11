@@ -28,8 +28,7 @@ The demo consists of 6 WAVEs, each implementing additional components of the arc
 logged into AWS Region `us-east-1`
 ## 1-Click Installs
 
-- [VPC](https://github.com/pitfunie/wycliiffe-Monolithic-wordpress-transformation/blob/main/01_CLOUDFORMATION_TEMPLATE/NYPets.yaml)
-
+- [VPC](https://console.aws.amazon.com/cloudformation/home?region=us-east-1#/stacks/quickcreate?templateURL=https://raw.githubusercontent.com/pitfunie/wycliiffe-Monolithic-wordpress-transformation/main/01_CLOUDFORMATION_TEMPLATE/NYPets.yaml)
 
 
 ## Architecture Diagrams
