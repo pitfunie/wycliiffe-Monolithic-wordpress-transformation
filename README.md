@@ -1,16 +1,16 @@
-# Advanced Demo - Web App - Single Server to Elastic Evolution
+# Web App - Single Server to Elastic Evolution
 
-In this advanced demo lesson you are going to evolve the architecture of a popular web application wordpress
+Evolve a Monolithic Webserver to an architecture of a popular web application WordPress
 The architecture will start with a manually built single instance, running the application and database
-over the WAVEs of the demo you will evolve this until its a scalable and resilient architecture
+over the WAVEs, it will evolve scalable to a resilient architecture
 
 The demo consists of 6 WAVEs, each implementing additional components of the architecture
 
-- WAVE 1 - Setup the environment and manually build wordpress
+- WAVE 1 - Setup the environment and manually build WordPress
 - WAVE 2 - Automate the build using a Launch Template
 - WAVE 3 - Split out the DB into RDS and Update the LT
 - WAVE 4 - Split out the WP filesystem into EFS and Update the LT
-- WAVE 5 - Enable elasticity via a ASG & ALB and fix wordpress (hardcoded WPHOME)
+- WAVE 5 - Enable elasticity via an ASG & ALB and fix WordPress (hardcoded WPHOME)
 - WAVE 6 - Cleanup
 
 ![Architecture](https://github.com/pitfunie/wycliiffe-Monolithic-wordpress-transformation/blob/main/ArchitectureEvolutionAll.png)
